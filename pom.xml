@@ -8,11 +8,11 @@
 		<version>2.4.8</version>
 		<relativePath/> <!-- lookup parent from repository -->
 	</parent>
-	<groupId>com.immigration</groupId>
+	<groupId>com.migration</groupId>
 	<artifactId>Statistics</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
 	<name>Statistics</name>
-	<description>Project to display immigration statistics in Hong Kong</description>
+	<description>Project to display migration statistics in Hong Kong</description>
 	<properties>
 		<java.version>11</java.version>
 	</properties>
