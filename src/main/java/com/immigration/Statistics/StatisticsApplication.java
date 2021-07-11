@@ -35,7 +35,7 @@ public class StatisticsApplication {
 
 		CSVReader.readCSVFile(stat, "statistics_on_daily_passenger_traffic.csv");
 
-		return stat.getNetOutflow();
+		return "From " + stat.getStartingDate() + " to " + stat.getEndingDate() + " Hong Kong Net Outflow : " + stat.getNetOutflow();
 	}
 
 }
