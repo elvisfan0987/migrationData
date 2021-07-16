@@ -1,5 +1,2 @@
-com/immigration/Statistics/Calculator.class
-com/immigration/Statistics/CSVReader.class
 com/immigration/Statistics/DataCleaner.class
-com/immigration/Statistics/StatisticsApplication.class
-com/immigration/Statistics/Statistics.class
+com/immigration/Statistics/MainController.class

@@ -5,6 +5,7 @@ import java.time.LocalDate;
 public class Statistics {
     private int inflow;
     private int outflow;
+    private int netOutflow;
     private LocalDate startingDate;
     private LocalDate endingDate;
 
